@@ -69,8 +69,9 @@ img.svg-image {
     border-radius: .7rem;
 }
 
-button {
+div.category-name p {
     padding: .5rem 1rem;
+    display: inline-block;
     background-color: var(--Yellow);
     color: var(--Gray-950);
     font-family: 'Figtree ExtraBold';
